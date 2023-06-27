@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TJUG94Shv5GACs4RDVcAs3fQFy8Tx7nNxkr0MNJ1QDT6pkOjYbD687XfyvTuIhD1kgRd0rzVQINF8RcHvc2+VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HARDPC\\Desktop\\Proj\\CompleteWeatherApp\\CompleteWeatherApp\\CompleteWeatherApp.iOS\\CompleteWeatherApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HARDPC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\HARDPC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\HARDPC\\.nuget\\packages\\xamarin.essentials\\1.2.0\\xamarin.essentials.1.2.0.nupkg.sha512",
+    "C:\\Users\\HARDPC\\.nuget\\packages\\xamarin.forms\\4.2.0.709249\\xamarin.forms.4.2.0.709249.nupkg.sha512"
+  ],
+  "logs": []
+}
